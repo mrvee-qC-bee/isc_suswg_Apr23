@@ -2,6 +2,8 @@
 
 A technical walkthrough of running solvated quantum chemistry on IBM Quantum QPUs using a hybrid QPU ↔ HPC workflow.
 
+Tutorial link: (https://quantum.cloud.ibm.com/docs/en/tutorials/implicit-solvent-calculations)[https://quantum.cloud.ibm.com/docs/en/tutorials/implicit-solvent-calculations]
+
 ## Overview
 
 In about one hour, this tutorial runs the full hybrid pipeline end-to-end:
